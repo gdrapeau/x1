@@ -5,8 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "go": "index.js"
+    "x1": "x1"
   },
+  "bin":{
+    "x1":"index.js"
+  }
   "keywords": [],
   "author": "",
   "license": "MIT"

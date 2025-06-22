@@ -8,7 +8,7 @@
     "x1": "x1"
   },
   "bin":{
-    "x1":"index.js"
+    "x1":"script.sh"
   },
   "keywords": [],
   "author": "",

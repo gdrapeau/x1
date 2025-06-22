@@ -9,7 +9,7 @@
   },
   "bin":{
     "x1":"index.js"
-  }
+  },
   "keywords": [],
   "author": "",
   "license": "MIT"
